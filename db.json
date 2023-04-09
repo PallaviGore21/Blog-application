@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": false,
+      "id": 1
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "password": "456",
+      "active": true,
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "456",
+      "active": true,
+      "admin": true,
+      "id": 3
+    },
+    {
+      "name": "pallavi",
+      "email": "pallavi@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": false,
+      "id": 4
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "456",
+      "active": true,
+      "admin": false,
+      "id": 5
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "456",
+      "active": true,
+      "admin": false,
+      "id": 6
+    }
+  ],
+  "blogs": [
+    {
+      "heroImage": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2022/09/brand_identity.jpg",
+      "title": "Food blog",
+      "content": " Food blogs come in several flavors. On the one hand, there’s the food critics, who go from one restaurant table to the next, tasting different dishes and narrating their experiences. On the other hand, there’s the cooking and baking enthusiasts. They document their recipes—from the ingredients they use to the steps they follow—and share them with their communities through articles, photos and videos",
+      "publish": true,
+      "authorId": 1,
+      "id": 5
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1277238348/photo/woman-travelling-with-kayak-in-nature-and-vlogging.jpg?b=1&s=170667a&w=0&k=20&c=hDJv8uED5_N9H6pM0Jghpkvohsg35F1VLD538RPRVlc=",
+      "title": "Travel Blog!",
+      "content": "Before planning a trip we tend to do a lot of research on both Google and social media. Therefore, the demand for reading other people's travel reviews is high. If you are a globetrotter, consider this type of outlet. You can start with an insiders guide on places to explore near you, offering reasons to visit your very own hometown, region or country.",
+      "publish": true,
+      "authorId": 1,
+      "id": 6
+    },
+    {
+      "heroImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4em5OEzY3HhDFCGNvIw9Fw8jCdd0v-GnRtQ&usqp=CAU",
+      "title": "Health and fitness blog",
+      "content": "The most common New Year's resolution is to exercise more and lose weight. Yet, less than 5% of adults participate in 30 minutes of physical activity each day. What about giving your readers an extra push of motivation? Blogging is a great way to share your insight on at-home workouts and eating best practices.Start by making a list of your own routines and habits, and turn them into guides filled with exact steps. For obvious reasons, people expect to find videos on these types of blogs, so buying a decent camera and using Wix Video is something to consider when you begin.",
+      "publish": true,
+      "authorId": 2,
+      "id": 7
+    },
+    {
+      "heroImage": "https://i0.wp.com/themes.svn.wordpress.org/fashion-lifestyle/1.1.0/screenshot.png?w=572&strip=all",
+      "title": "Lifestyle Blogs",
+      "content": "Lifestyle blogs are the new magazines. As we once flipped through pages, nowadays, we scroll for inspiration. Lifestyle bloggers create multimedia centered content around their daily lives. Therefore, these types of blogs often integrate vlogs (video blogs) to engage their audience and to show their expertise. These bloggers later tend to partner with brands as micro-influencers.",
+      "publish": false,
+      "authorId": 1,
+      "id": 8
+    },
+    {
+      "heroImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8qdEzUIrGYPeOqtlCqjTJIJd07LzgZmDmA&usqp=CAU",
+      "title": " Photography blogs",
+      "content": "A good picture is worth (writing) a thousand blog posts. Okay, maybe not 1,000, but have no doubt, people want to hear the story behind your stunning photos. With your photography blog, you’re not only displaying your latest work, but you’re also attracting new customers to your services, workshops or art store.",
+      "publish": false,
+      "authorId": 1,
+      "id": 10
+    },
+    {
+      "heroImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwzBvcjZC2KJNYDyjCnBAlLfn1L7xZkI2vg&usqp=CAU",
+      "title": "Personal Blog",
+      "content": "A personal blog allows you to bring out the storyteller within you by basing your content on real-life experiences and perspectives. When you create content, it might resemble a diary entry and will be written in the first person. You can choose to write about diverse topics or hone in on your interests. As you design your blog, make it personal and make sure it really represents you and your goals for the blog.",
+      "publish": true,
+      "authorId": 4,
+      "id": 11
+    },
+    {
+      "heroImage": "https://plus.unsplash.com/premium_photo-1663852297433-c6634f7ef172?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Garden Blog",
+      "content": "<p><em>My first Blog is here</em></p>",
+      "publish": false,
+      "authorId": 4,
+      "id": 12
+    }
+  ]
+}
